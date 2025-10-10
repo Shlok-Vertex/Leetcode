@@ -1,4 +1,4 @@
-# 📘 LeetCode Progress – Shlok Srivastava. 
+# 📘 LeetCode Progress – Shlok Srivastava.  
 
 Welcome to my LeetCode coding journal! This repository is a curated collection of my solutions, notes, and progress as I solve problems on [LeetCode](https://leetcode.com/u/Shlok_srivastava/). I primarily use **Python**, **C++**, and **Java** to solve algorithmic and data structure challenges.
 
